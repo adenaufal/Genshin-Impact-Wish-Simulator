@@ -38,6 +38,7 @@
 	"fractured-halo": "Расколотый ореол",
 	"freedom-sworn": "Клятва свободы",
 	"fruitful-hook": "Плодотворный крюк",
+	"gest-of-the-mighty-wolf": "Gest of the Mighty Wolf",
 	"haran-geppaku-futsu": "Харан гэппаку фуцу",
 	"harbinger-of-dawn": "Предвестник зари",
 	"hunter_s-path": "Охотничья тропа",
@@ -483,6 +484,10 @@
 	"varesa": {
 		"name": "Вареса",
 		"title": "Безмятежная сила"
+	},
+	"varka": {
+		"name": "Varka",
+		"title": "Knight of Boreas"
 	},
 	"venti": {
 		"name": "Венти",

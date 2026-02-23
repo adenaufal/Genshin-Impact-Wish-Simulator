@@ -38,6 +38,7 @@
 	"fractured-halo": "Resplendor Fragmentado",
 	"freedom-sworn": "Juramento pela Liberdade",
 	"fruitful-hook": "Gancho Frutífero",
+	"gest-of-the-mighty-wolf": "Balada do Poderoso Lobo",
 	"haran-geppaku-futsu": "Maremoto da Lua de Futsu",
 	"harbinger-of-dawn": "Prenúncio do Alvorecer",
 	"hunter_s-path": "Caminho do Caçador",
@@ -483,6 +484,10 @@
 	"varesa": {
 		"name": "Varesa",
 		"title": "Ócio Vigoroso"
+	},
+	"varka": {
+		"name": "Varka",
+		"title": "Cavaleiro de Boreas"
 	},
 	"venti": {
 		"name": "Venti",

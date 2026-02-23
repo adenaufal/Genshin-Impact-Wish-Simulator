@@ -38,6 +38,7 @@
 	"fractured-halo": "Fractured Halo",
 	"freedom-sworn": "Freedom-Sworn",
 	"fruitful-hook": "Fruitful Hook",
+	"gest-of-the-mighty-wolf": "Gest of the Mighty Wolf",
 	"haran-geppaku-futsu": "Haran Geppaku Futsu",
 	"harbinger-of-dawn": "Harbinger of Dawn",
 	"hunter_s-path": "Hunter's Path",
@@ -483,6 +484,10 @@
 	"varesa": {
 		"name": "Varesa",
 		"title": "Strength in Serenity"
+	},
+	"varka": {
+		"name": "Varka",
+		"title": "Knight of Boreas"
 	},
 	"venti": {
 		"name": "Venti",

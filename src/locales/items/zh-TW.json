@@ -38,6 +38,7 @@
 	"fractured-halo": "支離輪光",
 	"freedom-sworn": "蒼古自由之誓",
 	"fruitful-hook": "碩果鉤",
+	"gest-of-the-mighty-wolf": "狼的武功歌",
 	"haran-geppaku-futsu": "波乱月白经津",
 	"harbinger-of-dawn": "黎明神劍",
 	"hunter_s-path": "獵人之徑",
@@ -483,6 +484,10 @@
 	"varesa": {
 		"name": "瓦雷莎",
 		"title": "悠暇豪勁"
+	},
+	"varka": {
+		"name": "法爾伽",
+		"title": "北風騎士"
 	},
 	"venti": {
 		"name": "溫迪",

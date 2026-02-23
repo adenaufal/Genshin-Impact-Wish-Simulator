@@ -1,6 +1,17 @@
 {
 	"data": [
 		{
+			"itemID": 12515,
+			"name": "gest-of-the-mighty-wolf",
+			"rarity": 5,
+			"weaponType": "claymore",
+			"limited": true,
+			"origin": "mondstadt",
+			"offset": {
+				"button": { "t": 1, "w": 70, "l": 38 }
+			}
+		},
+		{
 			"itemID": 11519,
 			"name": "lightbearing-moonshard",
 			"rarity": 5,

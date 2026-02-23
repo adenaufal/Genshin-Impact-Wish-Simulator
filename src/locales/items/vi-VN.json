@@ -38,6 +38,7 @@
 	"fractured-halo": "Hào Quang Tách Rời",
 	"freedom-sworn": "Lời Thề Tự Do Cổ Xưa",
 	"fruitful-hook": "Móc Trĩu Quả",
+	"gest-of-the-mighty-wolf": "Chiến Hùng Ca Của Sói",
 	"haran-geppaku-futsu": "Haran Geppaku Futsu",
 	"harbinger-of-dawn": "Thần Kiếm Lê Minh",
 	"hunter_s-path": "Con Đường Thợ Săn",
@@ -483,6 +484,10 @@
 	"varesa": {
 		"name": "Varesa",
 		"title": "Sức Mạnh Nhàn Nhã"
+	},
+	"varka": {
+		"name": "Varka",
+		"title": "Kỵ Sĩ Bắc Phong"
 	},
 	"venti": {
 		"name": "Venti",

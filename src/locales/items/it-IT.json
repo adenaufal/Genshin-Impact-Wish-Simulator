@@ -38,6 +38,7 @@
 	"fractured-halo": "Aureola frammentata",
 	"freedom-sworn": " Giuramento di libertà",
 	"fruitful-hook": "Gancio fruttuoso",
+	"gest-of-the-mighty-wolf": "Gesta del Lupo maestoso",
 	"haran-geppaku-futsu": "Haran Geppaku Futsu",
 	"harbinger-of-dawn": "Messaggera dell'alba",
 	"hunter_s-path": "Sentiero del cacciatore",
@@ -483,6 +484,10 @@
 	"varesa": {
 		"name": "Varesa",
 		"title": "Forza nella serenità"
+	},
+	"varka": {
+		"name": "Varka",
+		"title": "Cavaliere di Boreas"
 	},
 	"venti": {
 		"name": "Venti",
