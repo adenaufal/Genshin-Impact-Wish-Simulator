@@ -63,6 +63,40 @@
 					}
 				}
 			}
+		},
+		{
+			"phase": 2,
+			"banners": {
+				"standardVersion": 5,
+				"events": {
+					"featured": [
+						{
+							"bannerName": "void-stars-advent-2",
+							"character": "skirk",
+							"textOffset": { "l": 50.5, "b": 10.5 }
+						},
+						{
+							"bannerName": "la-chanson-cerise-2",
+							"character": "escoffier",
+							"textOffset": { "l": 50.5, "b": 10.5 }
+						}
+					],
+					"rateup": ["charlotte", "candace", "dahlia"]
+				},
+				"weapons": {
+					"bannerName": "epitome-invocation-96",
+					"fatepointsystem": true,
+					"featured": [
+						{ "name": "symphonist-of-scents" },
+						{ "name": "azurelight", "buttonPosition": { "l": 65 } }
+					],
+					"rateup": ["the-flute", "rust", "favonius-lance", "the-bell", "favonius-codex"],
+					"textOffset": {
+						"featured": { "l": 44, "t": 70 },
+						"rateup": { "l": 76.5, "b": 20 }
+					}
+				}
+			}
 		}
 	]
 }
