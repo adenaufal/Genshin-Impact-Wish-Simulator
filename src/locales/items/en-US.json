@@ -39,6 +39,7 @@
 	"freedom-sworn": "Freedom-Sworn",
 	"fruitful-hook": "Fruitful Hook",
 	"gest-of-the-mighty-wolf": "Gest of the Mighty Wolf",
+	"golden-frostbound-oath": "Golden Frostbound Oath",
 	"haran-geppaku-futsu": "Haran Geppaku Futsu",
 	"harbinger-of-dawn": "Harbinger of Dawn",
 	"hunter_s-path": "Hunter's Path",
@@ -360,6 +361,10 @@
 	"layla": {
 		"name": "Layla",
 		"title": "Fantastical Evening Star"
+	},
+	"linnea": {
+		"name": "Linnea",
+		"title": "Augur of Wonders"
 	},
 	"lisa": {
 		"name": "Lisa",

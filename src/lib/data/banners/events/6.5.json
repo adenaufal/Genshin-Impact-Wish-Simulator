@@ -1,5 +1,5 @@
 {
-	"patch": 6.4,
+	"patch": 6.5,
 	"data": [
 		{
 			"phase": 1,
@@ -8,35 +8,35 @@
 				"events": {
 					"featured": [
 						{
-							"bannerName": "the-northerly-winds-song-of-triumph-1",
-							"character": "varka",
+							"bannerName": "ya-hoho-compendium-1",
+							"character": "linnea",
 							"textOffset": { "l": 50.5, "b": 10.5 }
 						},
 						{
-							"bannerName": "the-lone-light-knocks-at-night-2",
-							"character": "flins",
+							"bannerName": "piercing-shots-crimson-wake-3",
+							"character": "chasca",
 							"textOffset": { "l": 50.5, "b": 10.5 }
 						}
 					],
-					"rateup": ["bennett", "xiangling", "sucrose"]
+					"rateup": ["noelle", "aino", "illuga"]
 				},
 				"weapons": {
-					"bannerName": "epitome-invocation-95",
+					"bannerName": "epitome-invocation-97",
 					"fatepointsystem": true,
 					"featured": [
-						{ "name": "gest-of-the-mighty-wolf" },
-						{ "name": "bloodsoaked-ruins", "buttonPosition": { "l": 60 } }
+						{ "name": "golden-frostbound-oath" },
+						{ "name": "astral-vultures-crimson-plumage", "buttonPosition": { "l": 70 } }
 					],
 					"rateup": [
-						"sacrificers-staff",
-						"sacrificial-bow",
-						"favonius-greatsword",
-						"favonius-sword",
-						"sacrificial-fragments"
+						"flower-wreathed-feathers",
+						"lion_s-roar",
+						"dragon_s-bane",
+						"eye-of-perception",
+						"sacrificial-greatsword"
 					],
 					"textOffset": {
-						"featured": { "l": 42.5, "t": 70, "w": 30 },
-						"rateup": { "l": 75.5, "b": 20, "w": 20 }
+						"featured": { "l": 42.5, "t": 67, "w": 30 },
+						"rateup": { "l": 77.5, "b": 16, "w": 20 }
 					}
 				}
 			}

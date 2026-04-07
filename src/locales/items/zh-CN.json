@@ -39,6 +39,7 @@
 	"freedom-sworn": "苍古自由之誓",
 	"fruitful-hook": "硕果钩",
 	"gest-of-the-mighty-wolf": "狼的武功歌",
+	"golden-frostbound-oath": "霜结的誓金枝",
 	"haran-geppaku-futsu": "波乱月白经津",
 	"harbinger-of-dawn": "黎明神剑",
 	"hunter_s-path": "猎人之径",
@@ -360,6 +361,10 @@
 	"layla": {
 		"name": "莱依拉",
 		"title": "绮思晚星"
+	},
+	"linnea": {
+		"name": "莉奈娅",
+		"title": "博闻异旅"
 	},
 	"lisa": {
 		"name": "丽莎",

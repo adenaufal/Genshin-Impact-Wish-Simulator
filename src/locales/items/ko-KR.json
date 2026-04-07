@@ -39,6 +39,7 @@
 	"fractured-halo": "파멸의 빛고리",
 	"fruitful-hook": "수확의 갈고리",
 	"gest-of-the-mighty-wolf": "늑대의 무용담",
+	"golden-frostbound-oath": "서리 맺힌 금빛 가지",
 	"haran-geppaku-futsu": "하란 월백의 후츠",
 	"harbinger-of-dawn": "여명신검",
 	"hunter_s-path": "사냥꾼의 길",
@@ -360,6 +361,10 @@
 	"layla": {
 		"name": "레일라",
 		"title": "저녁별의 아름다운 사색"
+	},
+	"linnea": {
+		"name": "린네아",
+		"title": "신비한 박물학자"
 	},
 	"lisa": {
 		"name": "리사",

@@ -1,6 +1,17 @@
 {
 	"data": [
 		{
+			"itemID": 15516,
+			"name": "golden-frostbound-oath",
+			"rarity": 5,
+			"weaponType": "bow",
+			"limited": true,
+			"origin": "nordkrai",
+			"offset": {
+				"button": { "t": 1, "w": 70, "l": 38 }
+			}
+		},
+		{
 			"itemID": 12515,
 			"name": "gest-of-the-mighty-wolf",
 			"rarity": 5,

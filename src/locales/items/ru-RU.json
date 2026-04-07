@@ -39,6 +39,7 @@
 	"freedom-sworn": "Клятва свободы",
 	"fruitful-hook": "Плодотворный крюк",
 	"gest-of-the-mighty-wolf": "Gest of the Mighty Wolf",
+	"golden-frostbound-oath": "Золотая клятва льда",
 	"haran-geppaku-futsu": "Харан гэппаку фуцу",
 	"harbinger-of-dawn": "Предвестник зари",
 	"hunter_s-path": "Охотничья тропа",
@@ -360,6 +361,10 @@
 	"layla": {
 		"name": "Лайла",
 		"title": "Дивная вечерняя звезда"
+	},
+	"linnea": {
+		"name": "Линнея",
+		"title": "Пророчица чудес"
 	},
 	"lisa": {
 		"name": "Лиза",

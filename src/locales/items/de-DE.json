@@ -39,6 +39,7 @@
 	"freedom-sworn": "Blasser Schwur der Freiheit",
 	"fruitful-hook": "Fruchtbarer Haken",
 	"gest-of-the-mighty-wolf": "Kampflied des Wolfs",
+	"golden-frostbound-oath": "Goldener Frostschwur",
 	"haran-geppaku-futsu": "Haran Geppaku Futsu",
 	"harbinger-of-dawn": "Schwert der Dämmerung",
 	"hunter_s-path": "Pfad des Jägers",
@@ -360,6 +361,10 @@
 	"layla": {
 		"name": "Layla",
 		"title": "Verträumer Abendstern"
+	},
+	"linnea": {
+		"name": "Linnea",
+		"title": "Gelehrsamkeit und Wunderreise"
 	},
 	"lisa": {
 		"name": "Lisa",

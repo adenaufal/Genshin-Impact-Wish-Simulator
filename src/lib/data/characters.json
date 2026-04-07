@@ -2,6 +2,18 @@
 	"onlyStandard": ["amber", "kaeya", "lisa"],
 	"data": [
 		{
+			"itemID": 10000130,
+			"name": "linnea",
+			"vision": "geo",
+			"rarity": 5,
+			"origin": "nodkrai",
+			"offset": {
+				"splashArt": { "x": -4.520491803278689, "y": 1.3469945355191255, "scale": 1.45 },
+				"wishCard": { "x": -97.89781972014318, "y": 53.489749430523915, "scale": 9.76 },
+				"button": { "w": 125, "t": 34.5, "l": 52 }
+			}
+		},
+		{
 			"itemID": 10000128,
 			"name": "varka",
 			"vision": "anemo",

@@ -39,6 +39,7 @@
 	"freedom-sworn": " Giuramento di libertà",
 	"fruitful-hook": "Gancio fruttuoso",
 	"gest-of-the-mighty-wolf": "Gesta del Lupo maestoso",
+	"golden-frostbound-oath": "Promessa del gelo dorato",
 	"haran-geppaku-futsu": "Haran Geppaku Futsu",
 	"harbinger-of-dawn": "Messaggera dell'alba",
 	"hunter_s-path": "Sentiero del cacciatore",
@@ -360,6 +361,10 @@
 	"layla": {
 		"name": "Layla",
 		"title": "Stella fantastica della sera"
+	},
+	"linnea": {
+		"name": "Linnea",
+		"title": "Premonitrice di meraviglie"
 	},
 	"lisa": {
 		"name": "Lisa",

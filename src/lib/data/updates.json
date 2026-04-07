@@ -677,11 +677,18 @@
 			]
 		},
 		{
-			"featured": true,
 			"date": "16 Mar 2026",
 			"description": [
 				"Add <strong> Escoffier 1st Rerun </strong>",
 				"Add <strong> Skirk 1st Rerun </strong>"
+			]
+		},
+		{
+			"featured": true,
+			"date": "07 Apr 2026",
+			"description": [
+				"Add New Character: <strong> Linnea (5★)</strong>",
+				"Add <strong> Chasca 2nd Rerun </strong>"
 			]
 		}
 	]

@@ -39,6 +39,7 @@
 	"freedom-sworn": "Juramento pela Liberdade",
 	"fruitful-hook": "Gancho Frutífero",
 	"gest-of-the-mighty-wolf": "Balada do Poderoso Lobo",
+	"golden-frostbound-oath": "Ramo Dourado do Juramento Gelado",
 	"haran-geppaku-futsu": "Maremoto da Lua de Futsu",
 	"harbinger-of-dawn": "Prenúncio do Alvorecer",
 	"hunter_s-path": "Caminho do Caçador",
@@ -360,6 +361,10 @@
 	"layla": {
 		"name": "Layla",
 		"title": "Contemplações da Estrela Noturna"
+	},
+	"linnea": {
+		"name": "Linnea",
+		"title": "Caçadora das Maravilhas"
 	},
 	"lisa": {
 		"name": "Lisa",

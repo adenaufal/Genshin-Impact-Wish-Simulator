@@ -39,6 +39,7 @@
 	"freedom-sworn": "蒼古なる自由への誓い",
 	"fruitful-hook": "フルートゥフル・フック",
 	"gest-of-the-mighty-wolf": "狼の武勲詩",
+	"golden-frostbound-oath": "霜契の金枝",
 	"haran-geppaku-futsu": "波乱月白経津",
 	"harbinger-of-dawn": "黎明の神剣",
 	"hunter_s-path": "狩人の道",
@@ -360,6 +361,10 @@
 	"layla": {
 		"name": "レイラ",
 		"title": "綺思と夜星"
+	},
+	"linnea": {
+		"name": "リンネア",
+		"title": "博聞の旅路"
 	},
 	"lisa": {
 		"name": "リサ",

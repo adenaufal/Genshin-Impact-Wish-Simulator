@@ -39,6 +39,7 @@
 	"freedom-sworn": "Lời Thề Tự Do Cổ Xưa",
 	"fruitful-hook": "Móc Trĩu Quả",
 	"gest-of-the-mighty-wolf": "Chiến Hùng Ca Của Sói",
+	"golden-frostbound-oath": "Lời Thề Vàng Sương Giá",
 	"haran-geppaku-futsu": "Haran Geppaku Futsu",
 	"harbinger-of-dawn": "Thần Kiếm Lê Minh",
 	"hunter_s-path": "Con Đường Thợ Săn",
@@ -360,6 +361,10 @@
 	"layla": {
 		"name": "Layla",
 		"title": "Sao Đêm Kỳ Ảo"
+	},
+	"linnea": {
+		"name": "Linnea",
+		"title": "Lữ Khách Uyên Bác"
 	},
 	"lisa": {
 		"name": "Lisa",
