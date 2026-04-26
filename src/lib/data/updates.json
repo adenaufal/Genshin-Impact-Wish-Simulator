@@ -684,11 +684,18 @@
 			]
 		},
 		{
-			"featured": true,
 			"date": "07 Apr 2026",
 			"description": [
 				"Add New Character: <strong> Linnea (5★)</strong>",
 				"Add <strong> Chasca 2nd Rerun </strong>"
+			]
+		},
+		{
+			"featured": true,
+			"date": "27 May 2026",
+			"description": [
+				"Add <strong> Lauma 1st rerun </strong>",
+				"Add <strong> Nefer 1st rerun </strong>"
 			]
 		}
 	]
