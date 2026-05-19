@@ -5,6 +5,7 @@
 	"akuoumaru": "Akuoumaru",
 	"alley-hunter": "Caçador do Beco",
 	"amos-bow": "Arco de Amos",
+	"angelos-heptades": "Os Sete Éditos da Poeira e Luz",
 	"astral-vultures-crimson-plumage": "Plumagem Escarlate do Abutre Astral",
 	"aqua-simulacra": "Aqua Simulacra",
 	"aquila-favonia": "Falcão",
@@ -410,6 +411,10 @@
 		"name": "Neuvillette",
 		"title": "Ordenador das Marés"
 	},
+	"nicole": {
+		"name": "Nicole",
+		"title": "Clamor Interior"
+	},
 	"nilou": {
 		"name": "Nilou",
 		"title": "Dança da Luz de Lótus"
@@ -425,6 +430,10 @@
 	"ororon": {
 		"name": "Ororon",
 		"title": "Sombra do Vento Noturno"
+	},
+	"prune": {
+		"name": "Prune",
+		"title": "Sonhos Infantis Queridos"
 	},
 	"qiqi": {
 		"name": "Qiqi",

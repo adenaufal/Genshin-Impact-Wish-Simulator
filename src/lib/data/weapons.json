@@ -1,6 +1,17 @@
 {
 	"data": [
 		{
+			"itemID": 14523,
+			"name": "angelos-heptades",
+			"rarity": 5,
+			"weaponType": "catalyst",
+			"limited": true,
+			"origin": "nordkrai",
+			"offset": {
+				"button": { "w": 70, "t": 30, "l": 35 }
+			}
+		},
+		{
 			"itemID": 15516,
 			"name": "golden-frostbound-oath",
 			"rarity": 5,

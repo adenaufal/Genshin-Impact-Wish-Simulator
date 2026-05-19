@@ -5,6 +5,7 @@
 	"akuoumaru": "Акуомару",
 	"alley-hunter": "Охотник во тьме",
 	"amos-bow": "Лук Амоса",
+	"angelos-heptades": "Гептада ангела",
 	"astral-vultures-crimson-plumage": "Алое перо звёздного грифа",
 	"aqua-simulacra": "Аква симулякрум",
 	"aquila-favonia": "Меч Сокола",
@@ -410,6 +411,10 @@
 		"name": "Neuvillette",
 		"title": "Распорядитель неумолимого суда"
 	},
+	"nicole": {
+		"name": "Николь",
+		"title": "Шумная тишина"
+	},
 	"nilou": {
 		"name": "Нилу",
 		"title": "Танец лотоса"
@@ -425,6 +430,10 @@
 	"ororon": {
 		"name": "Оророн",
 		"title": "Тень Ночного Ветра"
+	},
+	"prune": {
+		"name": "Прюн",
+		"title": "Лелеемые детские мечты"
 	},
 	"qiqi": {
 		"name": "Ци Ци",

@@ -5,6 +5,7 @@
 	"akuoumaru": "Akuoumaru",
 	"alley-hunter": "Gassenjäger",
 	"amos-bow": "Amos' Bogen",
+	"angelos-heptades": "Sieben Gebote von Staub und Licht",
 	"astral-vultures-crimson-plumage": "Karmesinrotes Federkleid des Astralgeiers",
 	"aqua-simulacra": "Aqua Simulacra",
 	"aquila-favonia": "Windfalke",
@@ -410,6 +411,10 @@
 		"name": "Neuvillette",
 		"title": "Fäller des unerbittlichen Urteils"
 	},
+	"nicole": {
+		"name": "Nicole",
+		"title": "Aufruhr im Herzen"
+	},
 	"nilou": {
 		"name": "Nilou",
 		"title": "Lotoslicht auf der Tanzbühne"
@@ -425,6 +430,10 @@
 	"ororon": {
 		"name": "Ororon",
 		"title": "Schatten des Nachtwinds"
+	},
+	"prune": {
+		"name": "Prune",
+		"title": "Geschätzte kindliche Träume"
 	},
 	"qiqi": {
 		"name": "Qiqi",

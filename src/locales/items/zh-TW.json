@@ -5,6 +5,7 @@
 	"akuoumaru": "惡王丸",
 	"alley-hunter": "暗巷獵手",
 	"amos-bow": "阿莫斯之弓",
+	"angelos-heptades": "塵光七諭",
 	"astral-vultures-crimson-plumage": "星鷲赤羽",
 	"aqua-simulacra": "若水",
 	"aquila-favonia": "風鷹劍",
@@ -410,6 +411,10 @@
 		"name": "那維萊特",
 		"title": "諭告的潮音"
 	},
+	"nicole": {
+		"name": "尼可",
+		"title": "喧寂於心"
+	},
 	"nilou": {
 		"name": "妮露",
 		"title": "蓮光落舞筵"
@@ -425,6 +430,10 @@
 	"ororon": {
 		"name": "歐洛倫",
 		"title": "深黯的謎煙"
+	},
+	"prune": {
+		"name": "布倫妮",
+		"title": "稚夢歸心"
 	},
 	"qiqi": {
 		"name": "七七",

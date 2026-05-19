@@ -2,6 +2,30 @@
 	"onlyStandard": ["amber", "kaeya", "lisa"],
 	"data": [
 		{
+			"itemID": 10000132,
+			"name": "prune",
+			"vision": "anemo",
+			"rarity": 4,
+			"origin": "nodkrai",
+			"release": "6.6-1",
+			"offset": {
+				"splashArt": { "x": -1.8128415300546448, "y": 3.0983606557377046, "scale": 1 },
+				"wishCard": { "x": -25.724048161405793, "y": 44.49202733485193, "scale": 5.6 }
+			}
+		},
+		{
+			"itemID": 10000131,
+			"name": "nicole",
+			"vision": "pyro",
+			"rarity": 5,
+			"origin": "nodkrai",
+			"offset": {
+				"splashArt": { "x": 0.6161202185792349, "y": 0.7363387978142076, "scale": 1.43 },
+				"wishCard": { "x": 5.486495281483892, "y": 46.21184510250569, "scale": 9.58 },
+				"button": { "w": 125, "t": 34.5, "l": 52 }
+			}
+		},
+		{
 			"itemID": 10000130,
 			"name": "linnea",
 			"vision": "geo",

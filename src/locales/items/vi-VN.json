@@ -5,6 +5,7 @@
 	"akuoumaru": "Akuoumaru",
 	"alley-hunter": "Thợ Săn Hẻm Tối",
 	"amos-bow": "Cung Amos",
+	"angelos-heptades": "Trần Quang Thất Dụ",
 	"astral-vultures-crimson-plumage": "Xích Vũ Tinh Tựu",
 	"aqua-simulacra": "Nhược Thủy",
 	"aquila-favonia": "Phong Ưng Kiếm",
@@ -410,6 +411,10 @@
 		"name": "Neuvillette",
 		"title": "Tiếng Sóng Phán Quyết"
 	},
+	"nicole": {
+		"name": "Nicole",
+		"title": "Huyên Náo Trong Tim"
+	},
 	"nilou": {
 		"name": "Nilou",
 		"title": "Vũ Điệu Ánh Sen"
@@ -425,6 +430,10 @@
 	"ororon": {
 		"name": "Ororon",
 		"title": "Làn Khói U Ám"
+	},
+	"prune": {
+		"name": "Prune",
+		"title": "Giấc Mơ Trẻ Thơ"
 	},
 	"qiqi": {
 		"name": "Qiqi",

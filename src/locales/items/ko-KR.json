@@ -5,6 +5,7 @@
 	"akuoumaru": "아쿠오마루",
 	"alley-hunter": "뒷골목 사냥꾼",
 	"amos-bow": "아모스의 활",
+	"angelos-heptades": "일곱빛 계시",
 	"astral-vultures-crimson-plumage": "붉은 깃 별독수리",
 	"aqua-simulacra": "약수",
 	"aquila-favonia": "매의 검",
@@ -410,6 +411,10 @@
 		"name": "느비예트",
 		"title": "훈시의 파도 소리"
 	},
+	"nicole": {
+		"name": "니콜",
+		"title": "마음의 소리"
+	},
 	"nilou": {
 		"name": "닐루",
 		"title": "무대에 내려앉은 연꽃"
@@ -425,6 +430,10 @@
 	"ororon": {
 		"name": "올로룬",
 		"title": "깊은 어둠의 연기"
+	},
+	"prune": {
+		"name": "프루네",
+		"title": "돌아온 동심"
 	},
 	"qiqi": {
 		"name": "치치",

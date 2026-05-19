@@ -5,6 +5,7 @@
 	"akuoumaru": "惡王丸",
 	"alley-hunter": "ダークアレイの狩人",
 	"amos-bow": "アモスの弓",
+	"angelos-heptades": "塵と光の七つの誓約",
 	"astral-vultures-crimson-plumage": "星鷲の紅き羽",
 	"aqua-simulacra": "若水",
 	"aquila-favonia": "風鷹剣",
@@ -410,6 +411,10 @@
 		"name": "ヌヴィレット",
 		"title": "告諭の潮騒"
 	},
+	"nicole": {
+		"name": "ニコ",
+		"title": "心の声と静寂"
+	},
 	"nilou": {
 		"name": "ニィロウ",
 		"title": "絨毯に舞い落ちる蓮光"
@@ -425,6 +430,10 @@
 	"ororon": {
 		"name": "オロルン",
 		"title": "暗黒の謎煙"
+	},
+	"prune": {
+		"name": "プルーネ",
+		"title": "拙き夢を心に秘めて"
 	},
 	"qiqi": {
 		"name": "七七",

@@ -5,6 +5,7 @@
 	"akuoumaru": "Spada di Akuou",
 	"alley-hunter": "Cacciatore urbano",
 	"amos-bow": "Arco di Amos",
+	"angelos-heptades": "Eptadi dell’angelo",
 	"astral-vultures-crimson-plumage": "Piuma cremisi dell'avvoltoio astrale",
 	"aqua-simulacra": "Aqua simulacra",
 	"aquila-favonia": "Aquila Favonia",
@@ -410,6 +411,10 @@
 		"name": "Neuvillette",
 		"title": "Sentenza ineluttabile"
 	},
+	"nicole": {
+		"name": "Nicole",
+		"title": "Clamore interiore"
+	},
 	"nilou": {
 		"name": "Nilou",
 		"title": "Danza della luce di loto"
@@ -425,6 +430,10 @@
 	"ororon": {
 		"name": "Ororon",
 		"title": "Ombra del Vento della Notte"
+	},
+	"prune": {
+		"name": "Prune",
+		"title": "Preziosi sogni d’infanzia"
 	},
 	"qiqi": {
 		"name": "Qiqi",

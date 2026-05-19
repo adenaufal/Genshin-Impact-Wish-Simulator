@@ -691,11 +691,19 @@
 			]
 		},
 		{
-			"featured": true,
 			"date": "27 May 2026",
 			"description": [
 				"Add <strong> Lauma 1st rerun </strong>",
 				"Add <strong> Nefer 1st rerun </strong>"
+			]
+		},
+		{
+			"featured": true,
+			"date": "19 May 2026",
+			"description": [
+				"Add New Character: <strong> Nicole (5★)</strong>",
+				"Add New Character <strong> Prune (4★) </strong>",
+				"Add <strong> Durin 1st rerun banner </strong>"
 			]
 		}
 	]

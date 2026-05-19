@@ -5,6 +5,7 @@
 	"akuoumaru": "Akuoumaru",
 	"alley-hunter": "Alley Hunter",
 	"amos-bow": "Amos' Bow",
+	"angelos-heptades": "Angelo's Heptades",
 	"astral-vultures-crimson-plumage": "Astral Vulture's Crimson Plumage",
 	"aqua-simulacra": "Aqua Simulacra",
 	"aquila-favonia": "Aquila Favonia",
@@ -410,6 +411,10 @@
 		"name": "Neuvillette",
 		"title": "Ordainer of Inexorable Judgment"
 	},
+	"nicole": {
+		"name": "Nicole",
+		"title": "Clamor Within"
+	},
 	"nilou": {
 		"name": "Nilou",
 		"title": "Dance of Lotuslight"
@@ -425,6 +430,10 @@
 	"ororon": {
 		"name": "Ororon",
 		"title": "Shadow of the Night-Wind"
+	},
+	"prune": {
+		"name": "Prune",
+		"title": "Childlike Dreams Cherished"
 	},
 	"qiqi": {
 		"name": "Qiqi",
