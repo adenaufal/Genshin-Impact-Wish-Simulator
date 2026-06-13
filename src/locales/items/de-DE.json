@@ -22,6 +22,7 @@
 	"crimson_moon_s-semblance": "Form des scharlachroten Mondes",
 	"dawning-frost": "Froststern",
 	"debate-club": "Schlagfestes Argument",
+	"disaster-and-remorse": "Katastrophe und Reue",
 	"dragon_s-bane": "Drachenschreck",
 	"elegy-for-the-end": "Letzter Seufzer",
 	"emerald-orb": "Jadekugel",
@@ -370,6 +371,10 @@
 	"lisa": {
 		"name": "Lisa",
 		"title": "Rosenhexe"
+	},
+	"lohen": {
+		"name": "Lohen",
+		"title": "Angespitzte Pfeilspitze"
 	},
 	"lynette": {
 		"name": "Lynette",

@@ -22,6 +22,7 @@
 	"crimson_moon_s-semblance": "붉은 달의 형상",
 	"dawning-frost": "서릿빛 새벽",
 	"debate-club": "훌륭한 대화수단",
+	"disaster-and-remorse": "재앙",
 	"dragon_s-bane": "용학살창",
 	"elegy-for-the-end": "종말 탄식의 노래",
 	"emerald-orb": "비취 오브",
@@ -370,6 +371,10 @@
 	"lisa": {
 		"name": "리사",
 		"title": "장미 마녀"
+	},
+	"lohen": {
+		"name": "로엔",
+		"title": "서늘한 화살촉"
 	},
 	"lynette": {
 		"name": "리넷",

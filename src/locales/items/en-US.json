@@ -22,6 +22,7 @@
 	"crimson_moon_s-semblance": "Crimson Moon's Semblance",
 	"dawning-frost": "Dawning Frost",
 	"debate-club": "Debate Club",
+	"disaster-and-remorse": "Disaster and Remorse",
 	"dragon_s-bane": "Dragon's Bane",
 	"elegy-for-the-end": "Elegy for the End",
 	"emerald-orb": "Emerald Orb",
@@ -370,6 +371,10 @@
 	"lisa": {
 		"name": "Lisa",
 		"title": "Knight of Favonius Librarian"
+	},
+	"lohen": {
+		"name": "Lohen",
+		"title": "Sharpened Arrowhead"
 	},
 	"lynette": {
 		"name": "Lynette",

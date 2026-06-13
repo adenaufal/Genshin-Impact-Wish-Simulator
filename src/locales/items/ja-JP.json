@@ -22,6 +22,7 @@
 	"crimson_moon_s-semblance": "赤月のシルエット",
 	"dawning-frost": "霜辰",
 	"debate-club": "理屈責め",
+	"disaster-and-remorse": "災憾",
 	"dragon_s-bane": "匣中滅龍",
 	"elegy-for-the-end": "終焉を嘆く詩",
 	"emerald-orb": "翡玉法珠",
@@ -370,6 +371,10 @@
 	"lisa": {
 		"name": "リサ",
 		"title": "薔薇の魔女"
+	},
+	"lohen": {
+		"name": "ローエン",
+		"title": "鋭鋒の矢"
 	},
 	"lynette": {
 		"name": "リネット",

@@ -22,6 +22,7 @@
 	"crimson_moon_s-semblance": "Forma della Luna cremisi",
 	"dawning-frost": "Brina mattutina",
 	"debate-club": "Mazza della persuasione",
+	"disaster-and-remorse": "Disastro e rimorso",
 	"dragon_s-bane": "Scacciadraghi",
 	"elegy-for-the-end": "Elegia finale",
 	"emerald-orb": "Sfera smeraldina",
@@ -370,6 +371,10 @@
 	"lisa": {
 		"name": "Lisa",
 		"title": "Strega della Rosa purpurea"
+	},
+	"lohen": {
+		"name": "Lohen",
+		"title": "Punta di freccia affilata"
 	},
 	"lynette": {
 		"name": "Lynette",

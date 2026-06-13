@@ -2,6 +2,18 @@
 	"onlyStandard": ["amber", "kaeya", "lisa"],
 	"data": [
 		{
+			"itemID": 10000133,
+			"name": "lohen",
+			"vision": "cryo",
+			"rarity": 4,
+			"origin": "mondstadt",
+			"offset": {
+				"splashArt": { "x": -3.1721311475409832, "y": 1.8019125683060109, "scale": 1.76 },
+				"wishCard": { "x": -15.863976570126912, "y": 66.88382687927107, "scale": 11.69 },
+				"button": { "w": 130, "t": 34.5, "l": 52 }
+			}
+		},
+		{
 			"itemID": 10000132,
 			"name": "prune",
 			"vision": "anemo",

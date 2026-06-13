@@ -22,6 +22,7 @@
 	"crimson_moon_s-semblance": "赤月之形",
 	"dawning-frost": "霜辰",
 	"debate-club": "以理服人",
+	"disaster-and-remorse": "灾悔",
 	"dragon_s-bane": "匣里灭辰",
 	"elegy-for-the-end": "终末嗟叹之诗",
 	"emerald-orb": "翡玉法球",
@@ -370,6 +371,10 @@
 	"lisa": {
 		"name": "丽莎",
 		"title": "蔷薇魔女"
+	},
+	"lohen": {
+		"name": "洛恩",
+		"title": "恣锐锋镞"
 	},
 	"lynette": {
 		"name": "琳妮特",
